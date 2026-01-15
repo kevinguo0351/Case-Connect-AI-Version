@@ -1,0 +1,8 @@
+{
+  "name": "CaseConnect",
+  "description": "An  case interview preparation platform where candidates connect with partners for mock interviews, access curated frameworks, and manage their prep schedule.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
